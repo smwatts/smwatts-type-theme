@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://smwatts.github.io/smwatts.type-theme.github.io/"
+url: "https://smwatts.github.io/smwatts-type-theme/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
